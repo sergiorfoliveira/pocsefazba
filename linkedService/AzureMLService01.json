@@ -1,0 +1,17 @@
+{
+	"name": "AzureMLService01",
+	"properties": {
+		"annotations": [],
+		"type": "AzureMLService",
+		"typeProperties": {
+			"subscriptionId": "9ced6241-dae8-4afb-b578-1016fbf4bc0b",
+			"resourceGroupName": "rgpocsefazba",
+			"mlWorkspaceName": "wsmlpocsefazba",
+			"authentication": "MSI"
+		},
+		"connectVia": {
+			"referenceName": "AutoResolveIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
