@@ -1,0 +1,1232 @@
+{
+	"name": "csv_poc_ms_amostra_dataset_2022_08_22_V7",
+	"properties": {
+		"Name": "csv_poc_ms_amostra_dataset_2022_08_22_V7",
+		"EntityType": "TABLE",
+		"TableType": "EXTERNAL",
+		"Namespace": {
+			"SchemaName": null,
+			"DatabaseName": "LakeDatabase01",
+			"DatabaseId": null
+		},
+		"StorageDescriptor": {
+			"Distribution": null,
+			"Columns": [
+				{
+					"Name": "ID_CONTRIBUINTE",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_E12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_PRODUTO_E12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_INTERESTADUAIS_E12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_INTERNAS_E12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_ICMS_E12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_S12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_PRODUTO_S12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_INTERESTADUAIS_S12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_INTERNAS_S12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_ICMS_S12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TOTAL_NFCE_12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "NE12_NS12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "NE12_NFCE12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "D12_NE12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "D12_NS12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "NE3_NE12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "CS_NE12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "A12_NE12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "ARRECADACAO_12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "DECLARADOS_12",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "DECLARACOES_12_PERCENTUAL",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "COD_CONDICAO_CONTRB",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SETOR_ECONOMICO_CONTRIB",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SEGMENTO_ECONOMICO_CONTRIB",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SUBSEGMENTO_ECONOM_CONTRIB",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_PORTE_ECONOMICO_CONTRIB",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "TEMPO_OPERACAO",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "VAL_CAPITAL_SOCIAL_DECLARADO_EMPRESA",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "VAL_MEDIO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_DESVIO_PADRAO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_MVA_ANO_CALENDARIO",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_SALDO_FLUXO_FINANCEIRO_EMPRESA",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "UF",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 8000,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					}
+				},
+				{
+					"Name": "MUNICIPIO",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 8000,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					}
+				},
+				{
+					"Name": "PRINCIPAL_PRODUTO_VENDIDO",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 8000,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					}
+				},
+				{
+					"Name": "PESO_PRODUTO_VENDAS",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "PRINCIPAL_PRODUTO_COMPRADO",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 8000,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					}
+				},
+				{
+					"Name": "PESO_PRODUTO_COMPRAS",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "PRINCIPAL_FORNECEDOR",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "PESO_FORNECEDOR",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "PESO_NO_FORNECEDOR",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "PRINCIPAL_CLIENTE",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "PESO_CLIENTE",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "PESO_NO_CLIENTE",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "CONTADOR_RESPONSAVEL_NFE",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "FORNECEDOR_INSCRITO",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "DTR_REFERENCIA_PROCESSAMENTO_ROTINA_MALHA_FISCAL_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_FORMA_PAGTO_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_CONDICAO_CONTRB_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SETOR_ECONOMICO_CONTRIB_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SEGMENTO_ECONOMICO_CONTRIB_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SUBSEGMENTO_ECONOM_CONTRIB_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_PORTE_ECONOMICO_CONTRIB_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "DTR_INICIO_OPERACAO_EMPRESA_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "VAL_CAPITAL_SOCIAL_DECLARADO_EMPRESA_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_MEDIO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_DESVIO_PADRAO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_MVA_ANO_CALENDARIO_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_SALDO_FLUXO_FINANCEIRO_EMPRESA_F",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "CLIENTE_INSCRITO",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "DTR_REFERENCIA_PROCESSAMENTO_ROTINA_MALHA_FISCAL_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_FORMA_PAGTO_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_CONDICAO_CONTRB_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SETOR_ECONOMICO_CONTRIB_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SEGMENTO_ECONOMICO_CONTRIB_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_SUBSEGMENTO_ECONOM_CONTRIB_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "COD_PORTE_ECONOMICO_CONTRIB_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "DTR_INICIO_OPERACAO_EMPRESA_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "VAL_CAPITAL_SOCIAL_DECLARADO_EMPRESA_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_MEDIO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_DESVIO_PADRAO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_MVA_ANO_CALENDARIO_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "VAL_SALDO_FLUXO_FINANCEIRO_EMPRESA_C",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "TARGET",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "long",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "long"
+						}
+					}
+				},
+				{
+					"Name": "MT_RANDOM",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "float",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 0,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "float"
+						}
+					}
+				},
+				{
+					"Name": "SELECAO",
+					"Description": null,
+					"OriginDataTypeName": {
+						"TypeName": "string",
+						"IsComplexType": false,
+						"IsNullable": true,
+						"Length": 8000,
+						"Precision": 0,
+						"Scale": 0,
+						"Properties": {
+							"HIVE_TYPE_STRING": "string"
+						}
+					}
+				}
+			],
+			"ColumnSetEntityName": "4b233986-8de1-4624-a15b-f237f7645b83",
+			"Format": {
+				"InputFormat": "org.apache.hadoop.mapred.SequenceFileInputFormat",
+				"OutputFormat": "org.apache.hadoop.hive.ql.io.HiveSequenceFileOutputFormat",
+				"FormatType": "csv",
+				"SerializeLib": "org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe",
+				"Properties": {
+					"path": "abfss://fspocsefazba@sapocsefazba.dfs.core.windows.net/datalake01/csv-poc-ms-amostra-dataset-2022-08-22_V7.csv",
+					"delimiter": ",",
+					"firstRowAsHeader": "true",
+					"multiLine": "false",
+					"serialization.format": "1",
+					"FormatTypeSetToDatabaseDefault": false,
+					"header": "true"
+				}
+			},
+			"Source": {
+				"Provider": "ADLS",
+				"Location": "abfss://fspocsefazba@sapocsefazba.dfs.core.windows.net/datalake01/csv-poc-ms-amostra-dataset-2022-08-22_V7.csv",
+				"Properties": {
+					"LinkedServiceName": "wspocsefazba-WorkspaceDefaultStorage",
+					"LocationSetToDatabaseDefault": false
+				}
+			},
+			"Properties": {
+				"textinputformat.record.delimiter": ",",
+				"compression": "",
+				"derivedModelAttributeInfo": "{\"attributeReferences\":{}}"
+			},
+			"Compressed": false,
+			"SerDeInfo": null,
+			"IsStoredAsSubdirectories": false
+		},
+		"Owner": null,
+		"CreateTime": 0,
+		"LastAccessTime": 0,
+		"Retention": 0,
+		"Temporary": false,
+		"IsRewriteEnabled": false,
+		"ViewOriginalText": null,
+		"ViewExpandedText": null,
+		"Origin": {
+			"Type": "SPARK"
+		},
+		"OriginObjectId": null,
+		"IsSharedEntity": false,
+		"PublishStatus": "PUBLISHED",
+		"Properties": {
+			"Description": "",
+			"DisplayFolderInfo": "{\"name\":\"Others\",\"colorCode\":\"\"}",
+			"PrimaryKeys": "",
+			"spark.sql.sources.provider": "csv",
+			"spark.sql.sources.schema.numParts": "2",
+			"spark.sql.sources.schema.part.0": "{\"type\":\"struct\",\"fields\":[{\"name\":\"ID_CONTRIBUINTE\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_E12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_PRODUTO_E12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_INTERESTADUAIS_E12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_INTERNAS_E12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_ICMS_E12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_S12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_PRODUTO_S12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_INTERESTADUAIS_S12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_INTERNAS_S12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_ICMS_S12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TOTAL_NFCE_12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"NE12_NS12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"NE12_NFCE12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"D12_NE12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"D12_NS12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"NE3_NE12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"CS_NE12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"A12_NE12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"ARRECADACAO_12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"DECLARADOS_12\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"DECLARACOES_12_PERCENTUAL\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_CONDICAO_CONTRB\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_SETOR_ECONOMICO_CONTRIB\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_SEGMENTO_ECONOMICO_CONTRIB\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_SUBSEGMENTO_ECONOM_CONTRIB\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_PORTE_ECONOMICO_CONTRIB\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TEMPO_OPERACAO\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_CAPITAL_SOCIAL_DECLARADO_EMPRESA\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_MEDIO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_DESVIO_PADRAO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_MVA_ANO_CALENDARIO\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_SALDO_FLUXO_FINANCEIRO_EMPRESA\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"UF\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"MUNICIPIO\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PRINCIPAL_PRODUTO_VENDIDO\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PESO_PRODUTO_VENDAS\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PRINCIPAL_PRODUTO_COMPRADO\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PESO_PRODUTO_COMPRAS\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PRINCIPAL_FORNECEDOR\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PESO_FORNECEDOR\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PESO_NO_FORNECEDOR\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PRINCIPAL_CLIENTE\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PESO_CLIENTE\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"PESO_NO_CLIENTE\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"CONTADOR_RESPONSAVEL_NFE\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"FORNECEDOR_INSCRITO\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"DTR_REFERENCIA_PROCESSAMENTO_ROTINA_MALHA_FISCAL_F\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_FORMA_PAGTO_F\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_CONDICAO_CONTRB_F\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_SETOR_ECONOMICO_CONTRIB_F\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_SEGMENTO_ECONOMICO_CONTRIB_F\",\"type\":\"long\",\"nullable\":true,\"metadata\":{",
+			"spark.sql.sources.schema.part.1": "}},{\"name\":\"COD_SUBSEGMENTO_ECONOM_CONTRIB_F\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_PORTE_ECONOMICO_CONTRIB_F\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"DTR_INICIO_OPERACAO_EMPRESA_F\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_CAPITAL_SOCIAL_DECLARADO_EMPRESA_F\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_MEDIO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES_F\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_DESVIO_PADRAO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES_F\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_MVA_ANO_CALENDARIO_F\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_SALDO_FLUXO_FINANCEIRO_EMPRESA_F\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"CLIENTE_INSCRITO\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"DTR_REFERENCIA_PROCESSAMENTO_ROTINA_MALHA_FISCAL_C\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_FORMA_PAGTO_C\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_CONDICAO_CONTRB_C\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_SETOR_ECONOMICO_CONTRIB_C\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_SEGMENTO_ECONOMICO_CONTRIB_C\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_SUBSEGMENTO_ECONOM_CONTRIB_C\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"COD_PORTE_ECONOMICO_CONTRIB_C\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"DTR_INICIO_OPERACAO_EMPRESA_C\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_CAPITAL_SOCIAL_DECLARADO_EMPRESA_C\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_MEDIO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES_C\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_DESVIO_PADRAO_ARRECADACAO_ICMS_ULTIMO_DOZE_MES_C\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_MVA_ANO_CALENDARIO_C\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"VAL_SALDO_FLUXO_FINANCEIRO_EMPRESA_C\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"TARGET\",\"type\":\"long\",\"nullable\":true,\"metadata\":{}},{\"name\":\"MT_RANDOM\",\"type\":\"float\",\"nullable\":true,\"metadata\":{}},{\"name\":\"SELECAO\",\"type\":\"string\",\"nullable\":true,\"metadata\":{}}]}"
+		},
+		"ObjectVersion": 1,
+		"ObjectId": "c8594da4-c247-433c-929e-125d60c02c81",
+		"Description": ""
+	},
+	"type": "TABLE"
+}

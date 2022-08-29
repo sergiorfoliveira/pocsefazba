@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sqlOnDemand--wspocsefazba",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/9ced6241-dae8-4afb-b578-1016fbf4bc0b/resourceGroups/rgpocsefazba/providers/Microsoft.Synapse/workspaces/wspocsefazba",
+		"groupId": "sqlOnDemand",
+		"fqdns": [
+			"wspocsefazba-ondemand.81146483-07f2-4e76-89c0-1b807f5efaa2.sql.azuresynapse.net"
+		]
+	}
+}

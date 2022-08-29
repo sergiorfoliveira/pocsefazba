@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--wspocsefazba-sapocsefazba",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/9ced6241-dae8-4afb-b578-1016fbf4bc0b/resourceGroups/rgpocsefazba/providers/Microsoft.Storage/storageAccounts/sapocsefazba",
+		"groupId": "dfs"
+	}
+}

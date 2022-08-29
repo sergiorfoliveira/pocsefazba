@@ -1,0 +1,25 @@
+{
+	"name": "LakeDatabase01",
+	"properties": {
+		"Name": "LakeDatabase01",
+		"EntityType": "DATABASE",
+		"Origin": {
+			"Type": "SPARK"
+		},
+		"Properties": {
+			"IsSyMSCDMDatabase": true
+		},
+		"Source": {
+			"Provider": "ADLS",
+			"Location": "abfss://fspocsefazba@sapocsefazba.dfs.core.windows.net/LakeDatabase01",
+			"Properties": {
+				"FormatType": "csv",
+				"LinkedServiceName": "wspocsefazba-WorkspaceDefaultStorage"
+			}
+		},
+		"PublishStatus": "PUBLISHED",
+		"ObjectVersion": 1,
+		"ObjectId": "95abf7e7-2c05-4cc7-83e6-8de96be4357a"
+	},
+	"type": "DATABASE"
+}
